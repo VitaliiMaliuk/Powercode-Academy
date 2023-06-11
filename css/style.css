@@ -281,7 +281,7 @@ input::placeholder {
 }
 
 .men__image {
-  background: url(/assets/images/men.png) no-repeat center;
+  background: url(../assets/images/men.png) no-repeat center;
   background-size: contain;
   width: 90px;
   height: 50px;
@@ -326,7 +326,7 @@ input::placeholder {
 }
 
 .price__image {
-  background: url(/assets/images/price.png) no-repeat center;
+  background: url(../assets/images/price.png) no-repeat center;
   background-size: contain;
   width: 37.81px;
   height: 48.81px;
@@ -358,7 +358,7 @@ input::placeholder {
 }
 
 .html {
-  background: url(/assets/svg/HTML5.svg) no-repeat center;
+  background: url(../assets/svg/HTML5.svg) no-repeat center;
   background-size: contain;
   width: 100.28px;
   height: 106.28px;
@@ -368,7 +368,7 @@ input::placeholder {
 }
 
 .css {
-  background: url(/assets/svg/CSS3.svg) no-repeat center;
+  background: url(../assets/svg/CSS3.svg) no-repeat center;
   background-size: contain;
   width: 101.4px;
   height: 104.45px;
@@ -378,7 +378,7 @@ input::placeholder {
 }
 
 .js {
-  background: url(/assets/svg/javascript.svg) no-repeat center;
+  background: url(../assets/svg/javascript.svg) no-repeat center;
   background-size: contain;
   width: 90.89px;
   height: 89.94px;
@@ -388,7 +388,7 @@ input::placeholder {
 }
 
 .sublime {
-  background: url(/assets/svg/sublime.svg) no-repeat center;
+  background: url(../assets/svg/sublime.svg) no-repeat center;
   background-size: contain;
   width: 65.93px;
   height: 67.93px;
@@ -398,7 +398,7 @@ input::placeholder {
 }
 
 .vsc {
-  background: url(/assets/svg/Visual_Studio_Code.svg) no-repeat center;
+  background: url(../assets/svg/Visual_Studio_Code.svg) no-repeat center;
   background-size: contain;
   width: 77.62px;
   height: 76.62px;
