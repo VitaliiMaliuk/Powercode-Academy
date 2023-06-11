@@ -12,6 +12,10 @@
   font-weight: 800;
 }
 
+body {
+  background: #242731;
+}
+
 h3 {
   font-family: "Gilroy";
   font-style: normal;
@@ -31,7 +35,6 @@ h3 {
 }
 
 .wrapper {
-  background: #242731;
   max-width: 1440px;
   margin: 0 auto;
   padding-top: 10px;
